@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "QN7ZWHpE7D7RIcv4qfnttRn6MODVWnjlinZd7PS94XSJieAuVhKY3ciF9L+hIEH4IiCk8f7RZZS6Cdd7Uyg4WA==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\raylib\\blurprint\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meraj\\.nuget\\packages\\edcanhack.unglide\\2.0.0\\edcanhack.unglide.2.0.0.nupkg.sha512",
+    "C:\\Users\\Meraj\\.nuget\\packages\\imgui.net\\1.89.2\\imgui.net.1.89.2.nupkg.sha512",
+    "C:\\Users\\Meraj\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.1.2\\microsoft.toolkit.highperformance.7.1.2.nupkg.sha512",
+    "C:\\Users\\Meraj\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\Meraj\\.nuget\\packages\\raylib-cslo\\4.2.0.3\\raylib-cslo.4.2.0.3.nupkg.sha512",
+    "C:\\Users\\Meraj\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Meraj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Meraj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EdCanHack.Unglide 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EdCanHack.Unglide",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

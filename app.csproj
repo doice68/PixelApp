@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EdCanHack.Unglide" Version="2.0.0" />
+    <PackageReference Include="ImGui.NET" Version="1.89.2" />
+    <PackageReference Include="Raylib-cs" Version="4.2.0.1" />
+    <PackageReference Include="Raylib-CsLo" Version="4.2.0.3" />
+  </ItemGroup>
+
+</Project>
