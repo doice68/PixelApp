@@ -92,11 +92,11 @@ class App
                 ImGui.SliderFloat("", ref roundness, 0, 20);
             });
 
-            ImGui.Text("Background Color");
-            Helpers.WithText("", "bgcolor", () => 
-            {
-                ImGui.ColorPicker3("", ref bgColor);
-            });
+            // ImGui.Text("Background Color");
+            // Helpers.WithText("", "bgcolor", () => 
+            // {
+            //     ImGui.ColorPicker3("", ref bgColor);
+            // });
             ImGui.PopItemWidth();
 
             var style = ImGui.GetStyle();
